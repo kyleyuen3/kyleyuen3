@@ -32,7 +32,7 @@ I’m currently seeking full-time roles in Software Engineering, Systems/IT, or 
 
 📫 How to reach me
 - 📧 Email: kyleyuen3@gmail.com
-- 💼 LinkedIn: [https://www.linkedin.com/in/kyleyuen](https://www.linkedin.com/in/kyle-yuen-732b86234/)
+- 💼 LinkedIn: (https://www.linkedin.com/in/kyleyuen3/)
 - 🖥️ Portfolio Website: https://portfolio-lilac-iota-88.vercel.app/
 
 😄 Pronouns
