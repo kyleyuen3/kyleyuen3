@@ -6,6 +6,12 @@ I’m a CS graduate from San Francisco State University passionate about softwar
 
 I’m currently seeking full-time roles in Software Engineering, Systems/IT, or AI/ML.
 
+### 🛠 Tech Stack
+- Languages: Java, Python, C++, JavaScript
+- Web: React, Node.js, Express, HTML, CSS
+- Databases: MySQL, MongoDB
+- Tools: Linux, Git, GitHub, VS Code
+
 👀 I’m interested in
 - 🤖 Artificial Intelligence & Machine Learning (NLP, DistilBERT, language models)
 - 🧠 Algorithms & Complexity (poly-reductions, Turing machines, automata)
