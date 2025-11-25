@@ -1,8 +1,8 @@
-👋 Hi, I’m @kyleyuen3
-I’m a Computer Science graduate from San Francisco State University, passionate about AI, software engineering, and building things that actually help people.
-I love solving problems, creating clean UI/UX, and working on impactful projects — from machine learning models to full-stack apps to complex algorithms.
+👋 Hi, I’m Kyle Yuen
 
-I’m currently seeking full-time opportunities in Software Engineering, Machine Learning, or Systems/IT roles, where I can contribute, learn, and grow as an engineer.
+Computer Science Graduate — Software Engineering · Systems · AI/ML
+I’m a CS graduate from San Francisco State University passionate about software engineering, system administration, and AI/ML. I enjoy solving real problems, building clean user interfaces, and constantly learning new technologies that help people.
+I’m currently seeking full-time roles in Software Engineering, Systems/IT, or AI/ML.
 
 👀 I’m interested in
 - 🤖 Artificial Intelligence & Machine Learning (NLP, DistilBERT, language models)
