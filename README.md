@@ -9,7 +9,7 @@ I’m currently seeking full-time roles in Software Engineering, Systems/IT, or 
 ### 🛠 Tech Stack
 - Languages: Java, Python, C++, JavaScript
 - Web: React, Node.js, Express, HTML, CSS
-- Databases: MySQL, MongoDB
+- Databases: MySQL
 - Tools: Linux, Git, GitHub, VS Code
 
 👀 I’m interested in
