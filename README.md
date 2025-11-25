@@ -33,7 +33,7 @@ I’m currently seeking full-time roles in Software Engineering, Systems/IT, or 
 📫 How to reach me
 - 📧 Email: kyleyuen3@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/kyleyuen
-- 🖥️ Portfolio Website: (coming soon!)
+- 🖥️ Portfolio Website: https://portfolio-lilac-iota-88.vercel.app/
 
 😄 Pronouns
 - He/Him
